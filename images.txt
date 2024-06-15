@@ -1,1 +1,1 @@
-mysql
+java:17
